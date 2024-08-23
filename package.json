@@ -1,0 +1,19 @@
+{
+  "name": "jovian-careers-bootstrap",
+  "version": "1.0.0",
+  "description": "Jovian careers website built using bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodeman": "^1.1.2",
+    "nodemon": "^3.1.4"
+  }
+}
